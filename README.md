@@ -1,0 +1,1 @@
+This is AventiShima's "first" git project!
